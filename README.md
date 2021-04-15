@@ -1,6 +1,7 @@
 # flutter_book_ui
 
-A new Flutter application.
+![screenshot](https://github.com/KhmerDevChannel/FlutterBookUI/blob/main/screenshot/s1.png)
+![screenshot](https://github.com/KhmerDevChannel/FlutterBookUI/blob/main/screenshot/s2.png)
 
 ## Getting Started
 
